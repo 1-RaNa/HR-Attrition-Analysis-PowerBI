@@ -39,6 +39,10 @@ This project analyzes the key factors that influence employee attrition using th
 - **Years at Company vs Attrition** (Line Chart)
 - **Heatmap by JobRole & Environment Satisfaction**
 
+  ## 📸 Dashboard Preview
+
+![Dashboard Screenshot]()
+
 ---
 
 ## 🛠️ Tools and Techniques
