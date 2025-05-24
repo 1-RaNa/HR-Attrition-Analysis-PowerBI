@@ -41,7 +41,7 @@ This project analyzes the key factors that influence employee attrition using th
 
   ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/1-RaNa/HR-Attrition-Analysis-PowerBI/blob/main/Dashboard_Screenshot.png)
 
 ---
 
